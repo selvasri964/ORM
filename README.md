@@ -30,3 +30,6 @@ Insert the following five food orders into the database.
 |      4 | Divya         | Pizza        |        1 |       125 | No           |
 |      5 | Sanjay        | French Fries |        2 |       160 | No           |
 
+Output:
+
+<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/9bf0749c-72ab-4dda-a97d-5cec078ea4bb" />
